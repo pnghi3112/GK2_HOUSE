@@ -71,7 +71,7 @@ body {
 #hero {
     position: relative;
     height: 90vh;
-    background: url("/IMG/HOME\ BG.webp") no-repeat center center/cover;
+    background: url("/IMG/HOME BG.webp") no-repeat center center/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
